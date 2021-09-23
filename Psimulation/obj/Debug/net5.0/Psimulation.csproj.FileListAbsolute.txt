@@ -1,0 +1,16 @@
+D:\CAMBRIAN\COMPUTER PRORAMMING-INTERNET OF THINGS\SEMESTER 3\OBJECT ORIENTED PROGRAMMING 2\Repositories\Geometry2DTests_Lab1\Psimulation\obj\Debug\net5.0\Psimulation.csproj.AssemblyReference.cache
+D:\CAMBRIAN\COMPUTER PRORAMMING-INTERNET OF THINGS\SEMESTER 3\OBJECT ORIENTED PROGRAMMING 2\Repositories\Geometry2DTests_Lab1\Psimulation\obj\Debug\net5.0\Psimulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\CAMBRIAN\COMPUTER PRORAMMING-INTERNET OF THINGS\SEMESTER 3\OBJECT ORIENTED PROGRAMMING 2\Repositories\Geometry2DTests_Lab1\Psimulation\obj\Debug\net5.0\Psimulation.AssemblyInfoInputs.cache
+D:\CAMBRIAN\COMPUTER PRORAMMING-INTERNET OF THINGS\SEMESTER 3\OBJECT ORIENTED PROGRAMMING 2\Repositories\Geometry2DTests_Lab1\Psimulation\obj\Debug\net5.0\Psimulation.AssemblyInfo.cs
+D:\CAMBRIAN\COMPUTER PRORAMMING-INTERNET OF THINGS\SEMESTER 3\OBJECT ORIENTED PROGRAMMING 2\Repositories\Geometry2DTests_Lab1\Psimulation\obj\Debug\net5.0\Psimulation.csproj.CoreCompileInputs.cache
+D:\CAMBRIAN\COMPUTER PRORAMMING-INTERNET OF THINGS\SEMESTER 3\OBJECT ORIENTED PROGRAMMING 2\Repositories\Geometry2DTests_Lab1\Psimulation\bin\Debug\net5.0\Psimulation.exe
+D:\CAMBRIAN\COMPUTER PRORAMMING-INTERNET OF THINGS\SEMESTER 3\OBJECT ORIENTED PROGRAMMING 2\Repositories\Geometry2DTests_Lab1\Psimulation\bin\Debug\net5.0\Psimulation.deps.json
+D:\CAMBRIAN\COMPUTER PRORAMMING-INTERNET OF THINGS\SEMESTER 3\OBJECT ORIENTED PROGRAMMING 2\Repositories\Geometry2DTests_Lab1\Psimulation\bin\Debug\net5.0\Psimulation.runtimeconfig.json
+D:\CAMBRIAN\COMPUTER PRORAMMING-INTERNET OF THINGS\SEMESTER 3\OBJECT ORIENTED PROGRAMMING 2\Repositories\Geometry2DTests_Lab1\Psimulation\bin\Debug\net5.0\Psimulation.runtimeconfig.dev.json
+D:\CAMBRIAN\COMPUTER PRORAMMING-INTERNET OF THINGS\SEMESTER 3\OBJECT ORIENTED PROGRAMMING 2\Repositories\Geometry2DTests_Lab1\Psimulation\bin\Debug\net5.0\Psimulation.dll
+D:\CAMBRIAN\COMPUTER PRORAMMING-INTERNET OF THINGS\SEMESTER 3\OBJECT ORIENTED PROGRAMMING 2\Repositories\Geometry2DTests_Lab1\Psimulation\bin\Debug\net5.0\ref\Psimulation.dll
+D:\CAMBRIAN\COMPUTER PRORAMMING-INTERNET OF THINGS\SEMESTER 3\OBJECT ORIENTED PROGRAMMING 2\Repositories\Geometry2DTests_Lab1\Psimulation\bin\Debug\net5.0\Psimulation.pdb
+D:\CAMBRIAN\COMPUTER PRORAMMING-INTERNET OF THINGS\SEMESTER 3\OBJECT ORIENTED PROGRAMMING 2\Repositories\Geometry2DTests_Lab1\Psimulation\obj\Debug\net5.0\Psimulation.dll
+D:\CAMBRIAN\COMPUTER PRORAMMING-INTERNET OF THINGS\SEMESTER 3\OBJECT ORIENTED PROGRAMMING 2\Repositories\Geometry2DTests_Lab1\Psimulation\obj\Debug\net5.0\ref\Psimulation.dll
+D:\CAMBRIAN\COMPUTER PRORAMMING-INTERNET OF THINGS\SEMESTER 3\OBJECT ORIENTED PROGRAMMING 2\Repositories\Geometry2DTests_Lab1\Psimulation\obj\Debug\net5.0\Psimulation.pdb
+D:\CAMBRIAN\COMPUTER PRORAMMING-INTERNET OF THINGS\SEMESTER 3\OBJECT ORIENTED PROGRAMMING 2\Repositories\Geometry2DTests_Lab1\Psimulation\obj\Debug\net5.0\Psimulation.genruntimeconfig.cache

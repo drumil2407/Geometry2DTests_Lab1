@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Psimulation.Geometry2D;
+using System;
 
 namespace Psimulation
 {
@@ -6,7 +7,17 @@ namespace Psimulation
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Point p = new Point();
+
+            Vector p1 = new Vector();
+
+            p1.Set(1, 2);
+            p.GetCordinate(out double x, out double y);
+            Console.WriteLine($"{x},{y}");
+
+            Rectangle r = new Rectangle(2, 3);
+            r.calrect();
+
         }
     }
 }
