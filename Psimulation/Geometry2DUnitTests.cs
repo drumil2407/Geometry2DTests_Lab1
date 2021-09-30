@@ -5,7 +5,7 @@ namespace Psimulation
 
     namespace Geometry2D
     {
-
+        //methods to get and set coordinate
         public class Point
         {
             public double X { get; set; }
@@ -31,15 +31,16 @@ namespace Psimulation
 
             }
 
-            public void SetCordinate(double? x, double? y)    // double question checks if it is null or not
+            public void SetCordinate(double x, double y)    
             {
-                X = x ?? X;
-                Y = y ?? Y;
+                X = x;
+                Y= y;
 
             }
 
         }
-
+        
+        //vector class which checks if particles is between -1 and 1 range
         public class Vector
         {
 
@@ -48,7 +49,8 @@ namespace Psimulation
 
             public Vector(double dX = 0, double dY = 0)
             {
-
+                DX = dX;
+                DY = dY;
             }
 
             public void Set(double dx, double dy)
